@@ -7,7 +7,7 @@ workers_dev = true
 # デフォルト = テスト環境 (noda@)
 # 使い方: npx wrangler deploy
 # ═══════════════════════════════════════════════════════════════
-account_id = "YOUR_DEV_ACCOUNT_ID"
+account_id = "d9039fbd6807a0a103e16b36f0564316"
 
 [assets]
 directory = "dist/client"
